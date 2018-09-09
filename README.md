@@ -6,9 +6,6 @@ ProtocolSupport_pmmp_edition
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/BigBrotherTeam/BigBrother.svg)](http://isitmaintained.com/project/BigBrotherTeam/BigBrother "Percentage of issues still open")
 -------------
 
-### Watch Video working on PocketMine-MP!
-[![](http://img.youtube.com/vi/4oaYIW8YuNg/0.jpg)](http://www.youtube.com/watch?v=4oaYIW8YuNg)
-
 #### Notice
 * This plugin supports use with Apollo. Using a other software will cause many bugs & problems.
 * This plugin supports Minecraft version 1.12.2 ***ONLY.***
