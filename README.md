@@ -1,4 +1,4 @@
-ProtocolSupport_pmmp_edition
+ProtocolSupporPmmP
 =============
 [![license](https://img.shields.io/github/license/BigBrotherTeam/BigBrother.svg)](https://github.com/BigBrotherTeam/BigBrother/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/BigBrotherTeam/BigBrother.svg)](https://github.com/BigBrotherTeam/BigBrother/graphs/contributors)
